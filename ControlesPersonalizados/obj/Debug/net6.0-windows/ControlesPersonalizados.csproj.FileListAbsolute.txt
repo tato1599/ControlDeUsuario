@@ -1,0 +1,16 @@
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\ControlesPersonalizados.deps.json
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\ControlesPersonalizados.dll
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\ControlesPersonalizados.pdb
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.csproj.AssemblyReference.cache
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.Buscador.Buscador.resources
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.Form1.resources
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.csproj.GenerateResource.cache
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.AssemblyInfoInputs.cache
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.AssemblyInfo.cs
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.csproj.CoreCompileInputs.cache
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.dll
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\refint\ControlesPersonalizados.dll
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.pdb
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ref\ControlesPersonalizados.dll
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\Buscador\Buscador.cs
