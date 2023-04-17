@@ -14,3 +14,6 @@ C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\
 C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.pdb
 C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ref\ControlesPersonalizados.dll
 C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\Buscador\Buscador.cs
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\ControlesPersonalizados.exe
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\bin\Debug\net6.0-windows\ControlesPersonalizados.runtimeconfig.json
+C:\Users\esemi\source\repos\ControlesPersonalizados\ControlesPersonalizados\obj\Debug\net6.0-windows\ControlesPersonalizados.genruntimeconfig.cache

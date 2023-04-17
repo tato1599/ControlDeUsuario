@@ -28,13 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.buscador1 = new ControlesPersonalizados.Buscador.Buscador();
             this.SuspendLayout();
+            // 
+            // buscador1
+            // 
+            this.buscador1.ClientID = "1e9e3c68d1a541d598382bf7c0212afa";
+            this.buscador1.ClientSecret = "f6a820bfd687403b850a560be9446062";
+            this.buscador1.Location = new System.Drawing.Point(214, 90);
+            this.buscador1.Name = "buscador1";
+            this.buscador1.Size = new System.Drawing.Size(382, 219);
+            this.buscador1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.buscador1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -42,5 +53,7 @@
         }
 
         #endregion
+
+        private Buscador.Buscador buscador1;
     }
 }
